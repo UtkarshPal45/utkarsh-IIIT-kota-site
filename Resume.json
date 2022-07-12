@@ -1,0 +1,147 @@
+{
+    "basics": {
+        "name": "Utkarsh Pal",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1048@iiitkota.ac.in",
+        "phone": "+917905833788",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "lucknow",
+            "postalCode": "226023",
+            "city": "Lucknow",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "UtkarshPal45",
+                "url": ""
+            },
+            {
+                "network": "linkedin",
+                "username": "Utkarsh Pal",
+                "url": "https://www.linkedin.com/in/utkarsh-pal-0b255b22b/"
+            },
+            {
+                "network": "Instagram",
+                "username": "utkarshpal_24",
+                "url": "https://instagram.com/utkarshpal_24"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.5",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Git",
+                "C/C++",
+                "Java",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "music",
+            "keywords": [
+                "djing"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "",
+                "Badminton"
+            ]
+        }
+    ]
+}
